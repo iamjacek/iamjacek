@@ -17,7 +17,7 @@
 [![twitter icon](https://github.com/iamjacek/iamjacek/blob/master/twitter.png?raw=true)](https://twitter.com/JacekWitucki)
 [![linkedin icon](https://github.com/iamjacek/iamjacek/blob/master/in.png?raw=true)](https://www.jacekwitucki.com)
 [![instagram icon](https://github.com/iamjacek/iamjacek/blob/master/insta.png?raw=true)](https://www.jacekwitucki.com)
-[![dribbble icon](https://github.com/iamjacek/iamjacek/blob/master/dribbble.png =50x)](https://dribbble.com/iamjacek)
+[![dribbble icon](https://github.com/iamjacek/iamjacek/blob/master/dribbble.png?raw=true)](https://dribbble.com/iamjacek)
 
 
 - In free time active on 🏋🏻‍♂️gym and 🕹 PS4 network!
