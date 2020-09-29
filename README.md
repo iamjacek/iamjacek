@@ -1,16 +1,20 @@
 ### Hello there 👋 I am Jacek!
 
-<!--
-**iamjacek/iamjacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 I am self taught front-end dev. I use react, gatsby and node.js. I am also interested in web design just to draw some wireframe and do simple UI.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently e-commerce platform for learning purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning node.js and strapi.
+
+- 🌍 Check my **[portfolio website](https://www.jacekwitucki.com)** to find out more.
+
+- 🗂 Some github stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamjacek)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 Reach me on ma page or below:
+
+
+
+
+- In free time active on 🏋🏻‍♂️gym and 🕹 PS4 network!
