@@ -14,10 +14,9 @@
 
 - 📫 Reach me on ma page or below:
 
-[![twitter icon](https://github.com/iamjacek/iamjacek/blob/master/twitter.png?raw=true)](https://twitter.com/JacekWitucki)
-[![linkedin icon](https://github.com/iamjacek/iamjacek/blob/master/in.png?raw=true)](https://www.jacekwitucki.com)
-[![instagram icon](https://github.com/iamjacek/iamjacek/blob/master/insta.png?raw=true)](https://www.jacekwitucki.com)
-[![dribbble icon](https://github.com/iamjacek/iamjacek/blob/master/dribbble.png?raw=true)](https://dribbble.com/iamjacek)
-
+[<img src="https://github.com/iamjacek/iamjacek/blob/master/twitter.png" width="24">](https://twitter.com/JacekWitucki)
+[<img src="https://github.com/iamjacek/iamjacek/blob/master/in.png" width="24">](https://www.jacekwitucki.com)
+[<img src="https://github.com/iamjacek/iamjacek/blob/master/insta.png" width="24">](https://www.jacekwitucki.com)
+[<img src="https://github.com/iamjacek/iamjacek/blob/master/dribbble.png" width="24">](https://dribbble.com/iamjacek)
 
 - In free time active on 🏋🏻‍♂️gym and 🕹 PS4 network!
