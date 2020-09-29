@@ -14,7 +14,7 @@
 
 - 📫 Reach me on ma page or below:
 
-[<img src="https://github.com/iamjacek/iamjacek/blob/master/twitter.png" width="24">](https://twitter.com/JacekWitucki)
+    [<img src="https://github.com/iamjacek/iamjacek/blob/master/twitter.png" width="24">](https://twitter.com/JacekWitucki)
 [<img src="https://github.com/iamjacek/iamjacek/blob/master/in.png" width="24">](https://www.jacekwitucki.com)
 [<img src="https://github.com/iamjacek/iamjacek/blob/master/insta.png" width="24">](https://www.jacekwitucki.com)
 [<img src="https://github.com/iamjacek/iamjacek/blob/master/dribbble.png" width="24">](https://dribbble.com/iamjacek)
