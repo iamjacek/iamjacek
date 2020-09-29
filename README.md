@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on e-commerce platform for learning purpose.
 
-- 🌱 I’m currently learning node.js and strapi.
+- 🌱 I’m currently learning node.js and mongodb.
 
 - 🌍 Check my **[portfolio website](https://www.jacekwitucki.com)** to find more about me.
 
