@@ -8,15 +8,10 @@
 
 - 🌍   Check my **[portfolio website](https://www.jacekwitucki.com)** to find more about me.
 
+- ✍🏻   Not much but some of my design can be found on **[dribbble](https://dribbble.com/iamjacek)**.
+
 - 🗂   Some github stats:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamjacek)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫   Reach me on my **[website](https://www.jacekwitucki.com)** or below:
-
-    [<img src="https://github.com/iamjacek/iamjacek/blob/master/twitter.png" width="24">](https://twitter.com/JacekWitucki)
-[<img src="https://github.com/iamjacek/iamjacek/blob/master/in.png" width="24">](https://www.jacekwitucki.com)
-[<img src="https://github.com/iamjacek/iamjacek/blob/master/insta.png" width="24">](https://www.jacekwitucki.com)
-[<img src="https://github.com/iamjacek/iamjacek/blob/master/dribbble.png" width="24">](https://dribbble.com/iamjacek)
-
-- I love sport 🏋🏻‍♂️ and 🕹 video games!
+- I love sport 🏋 and 🕹 video games!
