@@ -1,4 +1,4 @@
-### Hello theren my name is Jacek 👋
+### Hello there my name is Jacek 👋
 
 👨🏻‍💻   I am self taught front-end dev. I like to use react and node.js. I am also interested in UI/UX just to draw some wireframe and do simple UI. I belive it will help all of the frontend developers to better understand and build our products!
 
